@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+		}
+	],
+	"debugger_configurations":
+	[
+		{
+			"name": "Debug python",
+			"type": "python",
+			"request": "launch",
+			"program": "/home/vandi/matura/pygame/main.py"
+		},
+	],
+}
